@@ -61,7 +61,7 @@ git clone https://github.com/nullqua/opnv-roundtrip-planner. git
 
 # Backend
 cd backend
-pip install -r requirements. txt
+pip install -r requirements.txt
 uvicorn src.main:app --reload
 
 # Frontend
@@ -74,4 +74,4 @@ npm run dev
 
 ## License
 
-MIT © nullqua 2025
+MIT © nullqua 2025-2026
