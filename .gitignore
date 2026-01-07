@@ -1,3 +1,6 @@
+# GTFS data
+backend/data/gtfs
+
 # Python
 __pycache__/
 *.py[cod]
